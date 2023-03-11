@@ -1,0 +1,4 @@
+.main .sum{
+    grid-column: 1 / 14;
+    grid-row: 16 / 21;
+}

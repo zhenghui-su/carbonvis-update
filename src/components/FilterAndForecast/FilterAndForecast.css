@@ -1,0 +1,40 @@
+.analysisDisplay .filterAndForecast{
+    grid-column: 1 / 12;
+    grid-row: 14 / 21;
+}
+.analysisDisplay .filterAndForecast .titleBox{
+    width: 100%;
+    height: 10%;
+    border-radius: 8px;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.analysisDisplay .filterAndForecast .title{
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+.analysisDisplay .filterAndForecast .titleBox .reback{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../../rec.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+.analysisDisplay .filterAndForecast .outter{
+    display: flex;
+    height: 90%;
+}
+.analysisDisplay .filterAndForecast .trendGra{
+    flex-basis: 65%;
+    background-color: #fff;
+}
+.analysisDisplay .filterAndForecast .valuePrediction{
+    flex-basis: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

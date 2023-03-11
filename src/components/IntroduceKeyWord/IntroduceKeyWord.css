@@ -1,0 +1,5 @@
+.introduceDisplay .key{
+    grid-column: 1 / 8;
+    grid-row: 15 / 21;
+    border: 1px solid #0e0e0e;
+}

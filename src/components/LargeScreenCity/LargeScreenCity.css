@@ -1,0 +1,4 @@
+.main .area{
+    grid-column: 14 / 21;
+    grid-row: 11 / 21;
+}

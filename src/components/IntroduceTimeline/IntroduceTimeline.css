@@ -1,0 +1,5 @@
+.introduceDisplay .time{
+    grid-column: 8 / 15;
+    grid-row: 15 / 21;
+    border: 1px solid #0e0e0e;
+}

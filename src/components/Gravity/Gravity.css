@@ -1,0 +1,20 @@
+.analysisDisplay .outter{
+    grid-column: 18 / 22;
+    grid-row: 13 / 21;
+}
+.analysisDisplay .outter .gravity{
+    width: 100%;
+    height: 91%;
+}
+.analysisDisplay .outter .title{
+    font-weight: bolder;
+    height: 9%;
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 8px;
+    vertical-align: baseline;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 0.5px;
+}

@@ -1,0 +1,23 @@
+.pageTitle{
+    width: 100%;
+    background-color: '#fff';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ddd;
+    border-radius: 8px;
+}
+.pageTitle h1{
+    font-size: 1.6rem;
+    line-height: 4vh;
+    margin-bottom: 0;
+    font-weight: bolder;
+}
+.pageTitle .goto{
+    width: 150px;
+    font-size: 1.5rem;
+    line-height: 4vh;
+    font-weight: bolder;
+    display: table;
+    vertical-align: middle;
+}

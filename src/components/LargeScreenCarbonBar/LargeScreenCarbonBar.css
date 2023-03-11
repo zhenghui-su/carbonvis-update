@@ -1,0 +1,4 @@
+.main .bar{
+    grid-column: 1 / 7;
+    grid-row: 1 / 11;
+}

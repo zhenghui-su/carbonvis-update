@@ -1,0 +1,31 @@
+.analysisDisplay .complexMap{
+    grid-column: 6 / 22;
+    grid-row: 1 / 14;
+    background-color: #ddd;
+}
+.analysisDisplay .complexMap .legendItem{
+    display: flex;
+    justify-items: center;
+    margin: 0.3em 0 0.3em 0;
+}
+.analysisDisplay .complexMap .HH,
+.analysisDisplay .complexMap .LH,
+.analysisDisplay .complexMap .LL,
+.analysisDisplay .complexMap .HL{
+    display: inline-block;
+    width: 1.3em;
+    height: 1.3em;
+    margin-right: 0.3em;
+}
+.analysisDisplay .complexMap .HH{
+    background-color: #CC3333;
+}
+.analysisDisplay .complexMap .LH{
+    background-color: #0099CC;
+}
+.analysisDisplay .complexMap .LL{
+    background-color: #0000CC;
+}
+.analysisDisplay .complexMap .HL{
+    background-color: #FF9933;
+}

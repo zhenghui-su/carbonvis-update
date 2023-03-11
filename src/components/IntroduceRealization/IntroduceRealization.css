@@ -1,0 +1,5 @@
+.introduceDisplay .cir{
+    grid-column: 1 / 8;
+    grid-row: 8 / 15;
+    border: 1px solid #0e0e0e;
+}
